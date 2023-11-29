@@ -1,6 +1,6 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
 use GuzzleHttp\Client as Guzzle;
 use GuzzleHttp\Exception\ClientException;

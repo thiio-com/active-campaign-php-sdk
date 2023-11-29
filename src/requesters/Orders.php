@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignOrder;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignOrder;
 use WebforceHQ\Exceptions\ParametersRequiredException;
 
 class Orders extends ActiveCampaign

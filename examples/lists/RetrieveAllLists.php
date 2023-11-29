@@ -1,5 +1,5 @@
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignList;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignList;
 
 
 $url = "<https://YOUR_USER.api-us1.com>";

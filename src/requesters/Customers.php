@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignCustomer;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignCustomer;
 use WebforceHQ\Exceptions\ParametersRequiredException;
 
 class Customers extends ActiveCampaign

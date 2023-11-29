@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignConnection;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignConnection;
 use WebforceHQ\Exceptions\ParametersRequiredException;
 
 class Connections extends ActiveCampaign{

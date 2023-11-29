@@ -1,14 +1,14 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign;
+namespace Thiio\ActiveCampaign;
 
-use WebforceHQ\ActiveCampaign\requesters\Connections;
-use WebforceHQ\ActiveCampaign\requesters\Contacts;
-use WebforceHQ\ActiveCampaign\requesters\Customers;
-use WebforceHQ\ActiveCampaign\requesters\Lists;
-use WebforceHQ\ActiveCampaign\requesters\Orders;
-use WebforceHQ\ActiveCampaign\requesters\OrderProducts;
-use WebforceHQ\ActiveCampaign\requesters\Tags;
+use Thiio\ActiveCampaign\requesters\Connections;
+use Thiio\ActiveCampaign\requesters\Contacts;
+use Thiio\ActiveCampaign\requesters\Customers;
+use Thiio\ActiveCampaign\requesters\Lists;
+use Thiio\ActiveCampaign\requesters\Orders;
+use Thiio\ActiveCampaign\requesters\OrderProducts;
+use Thiio\ActiveCampaign\requesters\Tags;
 use WebforceHQ\Exceptions\EmptyCredentialsException;
 use WebforceHQ\Exceptions\ParametersRequiredException;
 

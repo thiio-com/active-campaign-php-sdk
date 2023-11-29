@@ -1,9 +1,9 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\models;
+namespace Thiio\ActiveCampaign\models;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\interfaces\ActiveCampaignModel;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\interfaces\ActiveCampaignModel;
 
 class ActiveCampaignCustomer extends ActiveCampaign implements ActiveCampaignModel{
 

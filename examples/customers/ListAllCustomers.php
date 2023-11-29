@@ -1,5 +1,5 @@
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignCustomer;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignCustomer;
 
 $url = "<https://YOUR_USER.api-us1.com>";
 $key = "<YOUR_TOKEN_KEY>";

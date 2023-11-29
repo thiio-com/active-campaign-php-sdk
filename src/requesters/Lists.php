@@ -1,10 +1,10 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignList;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignListGroup;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignList;
+use Thiio\ActiveCampaign\models\ActiveCampaignListGroup;
 use WebforceHQ\Exceptions\ParametersRequiredException;
 
 class Lists extends ActiveCampaign

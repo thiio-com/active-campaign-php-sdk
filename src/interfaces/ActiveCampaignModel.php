@@ -1,6 +1,6 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\interfaces;
+namespace Thiio\ActiveCampaign\interfaces;
 
 interface ActiveCampaignModel {
 

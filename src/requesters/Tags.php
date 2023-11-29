@@ -1,10 +1,10 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\ActiveCampaign;
 use WebforceHQ\Exceptions\ParametersRequiredException;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignTag;
+use Thiio\ActiveCampaign\models\ActiveCampaignTag;
 
 class Tags extends ActiveCampaign
 {

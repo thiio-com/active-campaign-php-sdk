@@ -1,10 +1,10 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\requesters;
+namespace Thiio\ActiveCampaign\requesters;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignContact;
-use WebforceHQ\ActiveCampaign\models\ActiveCampaignContactList;
+use Thiio\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\models\ActiveCampaignContact;
+use Thiio\ActiveCampaign\models\ActiveCampaignContactList;
 use WebforceHQ\Exceptions\ParametersRequiredException;
 
 class Contacts extends ActiveCampaign

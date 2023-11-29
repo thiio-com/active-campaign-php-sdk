@@ -1,8 +1,8 @@
 <?php
 
-namespace WebforceHQ\ActiveCampaign\models;
+namespace Thiio\ActiveCampaign\models;
 
-use WebforceHQ\ActiveCampaign\ActiveCampaign;
+use Thiio\ActiveCampaign\ActiveCampaign;
 
 class ActiveCampaignTag extends ActiveCampaign{
 
