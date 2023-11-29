@@ -1,0 +1,35 @@
+{
+    "name": "thiio/active-campaign-php-sdk",
+    "description": "This is a SDK built in PHP for consuming Active Campaing's v3 API as detailed in https://www.activecampaign.com/",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Thiio\\ActiveCampaign\\": "src/",
+            "Thiio\\ActiveCampaign\\Exceptions\\": "src/Exceptions/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Thiio\\ActiveCampaign\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Enrique Hoy Chi",
+            "email": "enrique@thiio.com"
+        },
+        {
+
+            "name": "Fernando Ordoniez",
+            "email": "fordonez@webforcehq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
